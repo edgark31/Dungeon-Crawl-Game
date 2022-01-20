@@ -1,2 +1,3 @@
 # Dungeon-Crawl-Game
-Made a Dungeon Crawler game using modern object-oriented programming (in french)
+(eng) In order to play the game, you must put every files in the same directory.
+(fr) Pour jouer au jeu, vous devez mettre tous les fichiers dans le même repertoire.
