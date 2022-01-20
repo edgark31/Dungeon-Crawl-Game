@@ -1,3 +1,3 @@
 # Dungeon-Crawl-Game
-in order to play the game, you must put every files in the same directory
+In order to play the game, you must put every files in the same directory
 
